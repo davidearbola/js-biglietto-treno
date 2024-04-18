@@ -1,0 +1,10 @@
+.my_container {
+	width: 700px;
+	margin: 0 auto;
+	padding: 5rem;
+}
+
+body {
+	background-color: #222;
+	color: white;
+}
